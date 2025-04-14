@@ -4,6 +4,7 @@ import Header from './components/Header'
 import RecipeCard from './components/RecipeCard'
 import Content from './components/Content'
 import EditorsPick from './components/EditorsPick'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <RecipeCard />
       <Content />
       <EditorsPick />
+      <Footer />
     </>
   )
 }
