@@ -3,6 +3,7 @@ import './App.css'
 import Header from './components/Header'
 import RecipeCard from './components/RecipeCard'
 import Content from './components/Content'
+import EditorsPick from './components/EditorsPick'
 
 function App() {
 
@@ -11,6 +12,7 @@ function App() {
       <Header/>
       <RecipeCard />
       <Content />
+      <EditorsPick />
     </>
   )
 }

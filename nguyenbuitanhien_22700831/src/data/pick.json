@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Stuffed sticky rice ball",
+        "author": "Jennifer King",
+        "description": "Stuffed sticky rice balls: A delightful Asian treat with chewy, glutinous rice and a flavorful surprise filling...",
+        "time": "34 minutes",
+        "image": "./images/Selection.png"
+    },
+    {
+        "id": 2,
+        "title": "Strawberry smoothie",
+        "author": "Matthew Martinez",
+        "description": "Savor the refreshing delight of a strawberry smoothie. Made with ripe strawberries, this creamy blend offers...",
+        "time": "40 minutes",
+        "image": "./images/Selection (1).png"
+    },
+    {
+        "id": 3,
+        "title": "Latte Art",
+        "author": "Sarah Hill",
+        "description": "Latte art is the skillful craft of creating captivating designs on the surface of a latte....",
+        "time": "19 minutes",
+        "image": "./images/Selection (2).png"
+    },
+    {
+        "id": 4,
+        "title": "Butter fried noodles",
+        "author": "Julia Lopez",
+        "description": "Butter fried noodles: Savory noodles cooked in butter for a delicious and satisfying meal....",
+        "time": "16 minutes",
+        "image": "./images/Selection (3).png"
+    }
+]
