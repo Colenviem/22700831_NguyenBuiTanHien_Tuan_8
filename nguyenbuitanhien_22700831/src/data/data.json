@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Italian-style tomato",
+        "time": "15 minutes",
+        "image": "./images/Italian-style tomato.png"
+    },
+    {
+        "id": 2,
+        "title": "Spaghetti with vegetables",
+        "time": "15 minutes",
+        "image": "./images/Vegetable and shrimp spaghetti.png"
+    },
+    {
+        "id": 3,
+        "title": "Lotus delight salad",
+        "time": "25 minutes",
+        "image": "./images/Lotus delight salad.png"
+    },
+    {
+        "id": 4,
+        "title": "Snack cakes",
+        "time": "25 minutes",
+        "image": "./images/Snack cakes.png"
+    },
+    {
+        "id": 5,
+        "title": "Salad with cabbage and shrimp",
+        "time": "12 minutes",
+        "image": "./images/Salad with cabbage.png"
+    },
+    {
+        "id": 6,
+        "title": "Salad of cove beans, shrimp and potatoes",
+        "time": "20 minutes",
+        "image": "./images/Bean, shrimp, and potato salad.png"
+    },
+    {
+        "id": 7,
+        "title": "Sunny-side up fried egg",
+        "time": "5 minutes",
+        "image": "./images/Sunny-side up fried eggs.png"
+    },
+    {
+        "id": 8,
+        "title": "Lotus delight salad",
+        "time": "25 minutes",
+        "image": "./images/Lotus delight salad_01.png"
+    }
+]
